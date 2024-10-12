@@ -33,7 +33,7 @@ const Login = () => {
 
     return (
         <div>
-            <h2>Loginnnn</h2>
+            <h2>Loginnnnddd</h2>
             {error && <p style={{ color: 'red' }}>{error}</p>}
             <input
                 type="text"
